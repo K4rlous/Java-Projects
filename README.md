@@ -1,10 +1,10 @@
 # Java-Projects
 
-A repository to contain various Java projects made without external frameworks (Java Native).
+A repository containing various Java projects, ranging from native Java applications to projects using frameworks like Spring and Hibernate.
 
 ## Projects
 
-- **WebScraper** — A basic HTML scraper using JSoup.
-- **AnotherProject** — Description here.
+- **WebScraper** — A basic HTML scraper written in native Java using JSoup.
+- **AnotherProject** — Description coming soon.
 
-Each project has its own folder and can be built/run independently.
+Each project resides in its own folder and can be compiled and executed independently.
