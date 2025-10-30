@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BMICalculator/BMICalculator.iml" filepath="$PROJECT_DIR$/BMICalculator/BMICalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Projects.iml" filepath="$PROJECT_DIR$/.idea/Java-Projects.iml" />
     </modules>
   </component>
