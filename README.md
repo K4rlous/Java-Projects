@@ -7,7 +7,7 @@ Each project is organized in its own folder and can be compiled and executed ind
 
 ## Projects
 
-### BMI Calculator (JavaFX) – 2025
+🍔 ### BMI Calculator (JavaFX) – 2025
 A desktop application to calculate the **Body Mass Index (BMI)** with a graphical user interface.  
 - **Technologies:** Java, JavaFX  
 - **Features:** Input fields for weight and height, automatic BMI calculation, classification according to the **World Health Organization (WHO)**, error handling for invalid inputs, and a clickable link to the official WHO BMI table.  
