@@ -1,7 +1,6 @@
 # Java-Projects
 
 A repository containing various Java projects, ranging from **native Java applications** to projects using frameworks like **Spring**.  
-Each project is organized in its own folder and can be compiled and executed independently.
 
 ---
 
