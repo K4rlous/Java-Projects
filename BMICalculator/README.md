@@ -1,4 +1,4 @@
-# BMI Calculator
+# 🍔 BMI Calculator
 
 A simple BMI (Body Mass Index) calculator built with **JavaFX**.  
 Calculations and classifications are based on data from the **World Health Organization (WHO)**.
