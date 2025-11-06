@@ -1,4 +1,10 @@
 --module-path "D:\Javafx\javafx-sdk-25.0.1\lib" --add-modules javafx.controls,javafx.fxml
+--module-path "D:\Javafx\javafx-sdk-25.0.1\lib" --add-modules javafx.web
+--module-path "D:\Javafx\javafx-sdk-25.0.1\lib" --add-modules javafx.controls
 
+tudo:
+--module-path "D:\Javafx\javafx-sdk-25.0.1\lib" --add-modules javafx.controls,javafx.fxml,javafx.web,javafx.media,javafx.swing,javafx.graphics,javafx.base
 
 geradorSenha: <a href="https://www.flaticon.com/free-icons/lock" title="lock icons">Lock icons created by Pixel perfect - Flaticon</a>
+webBrowser: <a href="https://www.flaticon.com/free-icons/global" title="global icons">Global icons created by Freepik - Flaticon</a>
+editorTExto: <a href="https://www.flaticon.com/free-icons/change" title="change icons">Change icons created by SBTS2018 - Flaticon</a>

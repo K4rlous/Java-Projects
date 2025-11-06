@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/DigitalWatch/DigitalWatch.iml" filepath="$PROJECT_DIR$/DigitalWatch/DigitalWatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/HangmanGame/HangmanGame.iml" filepath="$PROJECT_DIR$/HangmanGame/HangmanGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Projects.iml" filepath="$PROJECT_DIR$/.idea/Java-Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiniTextEditor/MiniTextEditor.iml" filepath="$PROJECT_DIR$/MiniTextEditor/MiniTextEditor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiniWebBrowser/MiniWebBrowser.iml" filepath="$PROJECT_DIR$/MiniWebBrowser/MiniWebBrowser.iml" />
       <module fileurl="file://$PROJECT_DIR$/SafePasswordGenerator/SafePasswordGenerator.iml" filepath="$PROJECT_DIR$/SafePasswordGenerator/SafePasswordGenerator.iml" />
     </modules>
   </component>
