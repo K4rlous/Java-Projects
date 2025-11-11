@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/MiniTextEditor/MiniTextEditor.iml" filepath="$PROJECT_DIR$/MiniTextEditor/MiniTextEditor.iml" />
       <module fileurl="file://$PROJECT_DIR$/MiniWebBrowser/MiniWebBrowser.iml" filepath="$PROJECT_DIR$/MiniWebBrowser/MiniWebBrowser.iml" />
       <module fileurl="file://$PROJECT_DIR$/SafePasswordGenerator/SafePasswordGenerator.iml" filepath="$PROJECT_DIR$/SafePasswordGenerator/SafePasswordGenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShoppingList/ShoppingList.iml" filepath="$PROJECT_DIR$/ShoppingList/ShoppingList.iml" />
     </modules>
   </component>
 </project>
