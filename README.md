@@ -5,11 +5,35 @@ A repository containing various Java projects, ranging from **native Java applic
 
 ## Projects
 
+### 🌤️ Weather System (Java) – 2025
+A real-time weather information system using the WeatherAPI.
+- **Technologies:** Java, HTTP Client, JSON parsing
+- **Features:** Real-time weather data retrieval, search by city and country, displays temperature and "feels like" temperature, shows humidity, wind speed and atmospheric pressure, automatic location validation, and multi-language support.
+- **Repository:** [https://github.com/K4rlous/Java-Projects/tree/main/WeatherSystem](https://github.com/K4rlous/Java-Projects/tree/main/WeatherSystem)
+
+---
+
+### 🛒 Shopping List (JavaFX) – 2025
+A shopping list manager with automatic data persistence.
+- **Technologies:** Java, JavaFX, File I/O
+- **Features:** Add and remove items, export list to text file, automatic save and load functionality, data persistence between sessions, input validation with alerts, confirmation dialogs, and intuitive interface.
+- **Repository:** [https://github.com/K4rlous/Java-Projects/tree/main/ShoppingList](https://github.com/K4rlous/Java-Projects/tree/main/ShoppingList)
+
+---
+
 ### 🌐 Mini Web Browser (JavaFX) – 2025
 A lightweight web browser with essential navigation features.
 - **Technologies:** Java, JavaFX, WebView
 - **Features:** URL navigation with automatic HTTP/HTTPS handling, back/forward navigation buttons, page reload functionality, real-time URL field updates, and Google homepage on startup.
 - **Repository:** [https://github.com/K4rlous/Java-Projects/tree/main/MiniWebBrowser](https://github.com/K4rlous/Java-Projects/tree/main/MiniWebBrowser)
+
+---
+
+### 💡 Advice API (Java) – 2025
+A random advice generator using the Advice Slip API.
+- **Technologies:** Java, HTTP Client, JSON parsing
+- **Features:** Fetch random advice from API, display advice with unique ID, interactive loop for multiple advice, network error handling, HTTP status code validation, and clean command-line interface.
+- **Repository:** [https://github.com/K4rlous/Java-Projects/tree/main/AdviceAPI](https://github.com/K4rlous/Java-Projects/tree/main/AdviceAPI)
 
 ---
 
