@@ -1,6 +1,6 @@
 package io.github.k4rlous.jdbcstocksystem;
 
-public class Products {
+public class Product {
     private int id;
     private String nome;
     private int quantidade;
@@ -8,14 +8,14 @@ public class Products {
     private String status;
 
     // O ID é autoincrementado pelo próprio banco de dados!
-    public Products(String nome, int quantidade, double preco, String status) {
+    public Product(String nome, int quantidade, double preco, String status) {
         this.nome = nome;
         this.quantidade = quantidade;
         this.preco = preco;
         this.status = status;
     }
 
-    public Products(){
+    public Product(){
         // Construtor vazio
     }
 
