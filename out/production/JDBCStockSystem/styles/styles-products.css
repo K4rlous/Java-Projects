@@ -1,0 +1,36 @@
+.root{
+    -fx-background-color: dodgerblue; /* Cor de fundo */
+}
+
+.label{
+    -fx-font-size: 14px;  /* Tamanho da fonte */
+    -fx-text-fill: black;  /* Cor do texto */
+    -fx-font-weight: bold;  /* Peso da fonte como negrito */
+}
+
+.text-field{
+    -fx-background-color: white;
+    -fx-border-color: lightgray;  /* Cor da borda */
+}
+
+.button{
+    -fx-background-color: darkblue;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-cursor: hand;  /* Define o cursor como uma mão ao passar ele sobre o botão */
+
+}
+
+.button:hover{
+    -fx-background-color: linear-gradient(to bottom, lightskyblue, deepskyblue);
+}
+
+.table-view{
+    -fx-background-color: white;
+    -fx-border-color: lightgray;
+}
+
+.table-cell{
+    -fx-padding: 10px;  /* Define o preenchimento interno como 10 pixels */
+    -fx-border-color: lightgray;
+}

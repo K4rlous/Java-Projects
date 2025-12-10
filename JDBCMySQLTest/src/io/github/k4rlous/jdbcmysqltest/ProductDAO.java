@@ -1,4 +1,4 @@
-package io.github.k4rlous.jdbcstocksystem;
+package io.github.k4rlous.jdbcmysqltest;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

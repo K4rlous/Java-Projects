@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/BMICalculator/BMICalculator.iml" filepath="$PROJECT_DIR$/BMICalculator/BMICalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/DigitalWatch/DigitalWatch.iml" filepath="$PROJECT_DIR$/DigitalWatch/DigitalWatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/HangmanGame/HangmanGame.iml" filepath="$PROJECT_DIR$/HangmanGame/HangmanGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBCMySQLTest/JDBCMySQLTest.iml" filepath="$PROJECT_DIR$/JDBCMySQLTest/JDBCMySQLTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/JDBCStockSystem/JDBCStockSystem.iml" filepath="$PROJECT_DIR$/JDBCStockSystem/JDBCStockSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Projects.iml" filepath="$PROJECT_DIR$/.idea/Java-Projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/MiniTextEditor/MiniTextEditor.iml" filepath="$PROJECT_DIR$/MiniTextEditor/MiniTextEditor.iml" />
