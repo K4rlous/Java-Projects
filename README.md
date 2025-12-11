@@ -13,6 +13,22 @@ A real-time weather information system using the WeatherAPI.
 
 ---
 
+### 📦 JDBC Stock System (JavaFX + SQLite) – 2025
+A product inventory management system with complete CRUD operations.
+- **Technologies:** Java, JavaFX, JDBC, SQLite
+- **Features:** Complete CRUD operations, interactive TableView with automatic refresh, DAO pattern implementation, status management, price input with comma/period support, custom CSS styling, and automatic database connection management.
+- **Repository:** [https://github.com/K4rlous/Java-Projects/tree/main/JDBCStockSystem](https://github.com/K4rlous/Java-Projects/tree/main/JDBCStockSystem)
+
+---
+
+### 🐬 JDBC MySQL Test (Java + MySQL) – 2025
+A product management system demonstrating MySQL integration with JDBC.
+- **Technologies:** Java, JDBC, MySQL
+- **Features:** Complete CRUD operations with MySQL server, DAO pattern implementation, PreparedStatement for SQL injection prevention, error handling and connection management, and command-line interface for testing.
+- **Repository:** [https://github.com/K4rlous/Java-Projects/tree/main/JDBCMySQLTest](https://github.com/K4rlous/Java-Projects/tree/main/JDBCMySQLTest)
+
+---
+
 ### 🛒 Shopping List (JavaFX) – 2025
 A shopping list manager with automatic data persistence.
 - **Technologies:** Java, JavaFX, File I/O
