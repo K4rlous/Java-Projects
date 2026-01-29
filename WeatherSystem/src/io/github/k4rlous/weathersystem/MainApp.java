@@ -31,7 +31,7 @@ public class MainApp {
 
     public static String getDadosClimaticos(String cidade) throws Exception{
         String apiKey = new String(
-                MainApp.class.getResourceAsStream("/api-key.txt").readAllBytes(),
+                MainApp.class.getResourceAsStream("/api-key.txt").mreadAllBytes(),
                 StandardCharsets.UTF_8
                 ).trim(); // Lê o arquivo .txt e salva a APIKey em um a string, removendo todos os espaços
 
