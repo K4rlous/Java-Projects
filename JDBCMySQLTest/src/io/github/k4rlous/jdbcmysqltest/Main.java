@@ -8,9 +8,14 @@ public class Main {
         try (Connection conn = ConnectionDB.conectar()) {
             ProductDAO produtoDAO = new ProductDAO(conn);
             System.out.println("Conectado com sucesso!");
+            produtoDAO.excluirTodos();
+            Product produto1 = new Product("Mouse", 70, 49.99, "Estoque Alto");
+            Product produto2 = new Product("Monitor", 11, 299.99, "Estoque Baixo");
+            Product produto3 = new Product("Headphones", 43, 69.99, "Estoque Alto");
 
-            Product produto1 = new Product("Headphone Wireless", 70, 199.99, "Estoque Alto");
             produtoDAO.inserir(produto1);
+            produtoDAO.inserir(produto2);
+            produtoDAO.inserir(produto3);
 
 
 
