@@ -11,7 +11,8 @@ import org.springframework.web.bind.annotation.*;
 // Uso de list e optional novamente!
 import java.util.List;
 import java.util.Optional;
-
+// Anotação que permite abrir o client web!
+@CrossOrigin(origins = "*")
 // Indicamos pro spring que essa é a classe de controller!
 @RestController
 @RequestMapping("/produtos") // Indica a rota que os usuários irão acessar!
