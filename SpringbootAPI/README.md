@@ -1,4 +1,4 @@
-# 🛠️ SpringbootAPI (Spring Boot + SQLite) – 2025
+# 🛠️ SpringbootAPI (Spring Boot + SQLite) – 2026
 A RESTful product management API built with **Spring Boot**, **Hibernate**, and **SQLite**. Supports full CRUD operations and batch saving, tested with Postman.
 
 ## Features
