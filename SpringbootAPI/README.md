@@ -1,4 +1,4 @@
-# 🛠️ SpringbootAPI (Spring Boot + SQLite) – 2025
+# 🛠️ SpringbootAPI (Spring Boot + SQLite) – 2026
 A RESTful product management API built with **Spring Boot**, **Hibernate**, and **SQLite**. Supports full CRUD operations and batch saving, tested with Postman.
 
 ## Features
@@ -55,7 +55,7 @@ Base URL: `http://localhost:8080/produtos`
 ```
 
 ## Requirements
-- Java 17 or higher
+- Java 21 or higher
 - Maven 3.8 or higher
 
 ## How to Run
@@ -92,3 +92,16 @@ java -jar target/SpringbootAPI-0.0.1-SNAPSHOT.jar
 
 ## How to Test
 Use [Postman](https://www.postman.com/) or any HTTP client to send requests to the endpoints listed above.
+
+## Web Client
+The `client/` folder contains a simple HTML/JavaScript frontend that consumes the API and displays all products in a styled table.
+
+**Features:**
+- Fetches all products from `GET /produtos` on page load
+- Displays data in a formatted table (ID, Nome, Quantidade, Preço, Status)
+- Shows total product count
+- Displays an error message if the API is unreachable
+
+**How to use:**
+1. Make sure the API is running on `http://localhost:8080`
+2. Open `client/client-web-listagem.html` directly in your browser
