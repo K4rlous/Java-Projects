@@ -55,7 +55,7 @@ Base URL: `http://localhost:8080/produtos`
 ```
 
 ## Requirements
-- Java 17 or higher
+- Java 21 or higher
 - Maven 3.8 or higher
 
 ## How to Run
